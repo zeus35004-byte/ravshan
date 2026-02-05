@@ -1,0 +1,465 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    transition: .4s;
+
+}
+
+body{
+    background-color: rgb(7, 2, 39);
+}
+
+
+
+
+
+
+.haha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: rgb(152, 141, 141);
+    list-style: none;
+    text-decoration: none;
+
+   
+
+}
+
+.left{
+    display: flex;
+    gap:45px;
+    
+    
+}
+
+.lox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    color: white;
+    height: 40px;
+    width: 120px;
+   
+    border: solid 0px ;
+    border-radius: 10px;
+    list-style: circle;
+    cursor: pointer;
+
+ 
+ 
+
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    gap: 630px;
+    border: 2px solid gray;
+    margin: 5px;
+
+}
+
+.haha:hover{
+
+   
+    color: white;
+      transform: translateX(2px);
+    
+    
+    
+
+
+}
+
+.art{
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
+.aha{
+    width: 410px;
+    height: 450px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.mains{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30PX;
+
+}
+
+.axa{
+    width: 171.594970703125px;
+height: 171.50152587890625px;
+
+opacity: 1px;
+top: 315px;
+left: 872px;
+position: absolute;
+
+}
+
+.obo{
+    width: 330px;
+height: 230px;
+position: absolute;
+top: 500px;
+
+opacity: 1px;
+;
+right: 70px;
+gap: 24px;
+border-radius: 16px;
+border-top-width: 1px;
+padding: 20px;
+
+}
+.e{
+    color: yellow;
+}
+
+.art p{
+    size: 16px;
+}
+.huy{
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    color: white;
+    height: 40px;
+    width: 120px;
+    
+    border: solid 0px ;
+    border-radius: 10px;
+    list-style: circle;
+    cursor: pointer;
+
+   
+
+}
+
+.anotherbut{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.xuy{
+     list-style: none;
+    text-decoration: none;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(145, 127, 127);
+
+
+}
+
+.xuy:hover{
+    
+    color: white;
+    transform: translateX(2px);
+}
+
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 730px;
+}
+
+.op h1{
+    color: white;
+}
+
+.firstimg{
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    margin: 6px;
+}
+.twenty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hahaok{
+    text-decoration:none;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: rgb(152, 141, 141);
+    list-style: none;
+}
+.hahaok:hover{
+    text-decoration: none;
+     color: white;
+      transform: translateX(2px);
+}
+
+.twenty{
+color: white;
+display: flex;
+gap: 40px;
+}
+
+.firstone{
+    width: 370px;
+    height: 455px;
+    border: none 1px solid;
+    border-radius: 17px;
+    background-color: rgb(13, 13, 49);
+}
+.firstone img{
+    width: 330px;
+    height: 325px;
+    border-radius: 16px;
+    margin-left: 20px;
+    margin-top: 14px;
+
+  
+}
+
+.minione{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.allone{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 22px;
+    margin-left: 5px;
+}
+.class{
+    font-size: 23px;
+}
+.sp{
+    color: gray;
+    font-size: x-small;
+}
+
+.ogo{
+    margin-left: 12px;
+    background-color: rgb(7, 2, 39);
+    border: 1px solid yellow;
+
+}
+
+.ogo:hover{
+    background-color: yellow;
+    text-decoration: dotted;
+}
+
+.huy:hover{
+    background-color: rgb(7, 2, 39);
+}
+.lox:hover{
+    background-color: rgb(7, 2, 39);
+
+}
+
+.oppa{
+    width: 350px;
+    height: 350px;
+ 
+opacity: 1px;
+border-radius: 24px;
+top: 1600px;
+left: 770px;
+position: absolute;
+z-index: 2;
+}
+.appa{
+     width: 350px;
+    height: 350px;
+border-radius: 24px;
+top: 1500px;
+left: 1000px;
+position: absolute;
+z-index: 1;
+
+
+}
+
+
+.doubleimg{
+ 
+       width: 740px;
+height: 559px;
+
+opacity: 1px;
+border-radius: 24px;
+}
+
+.time{
+    gap: 200px;
+}
+
+.allimg{
+    width: 1290px;
+height: 652px;
+opacity: 1;
+gap: 30px;
+
+}
+.zaybal{
+      width: 1290px;
+height: 652px;
+opacity: 1;
+gap: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 120px;
+}
+
+.horizont{
+    width: 630px;
+height: 458px;
+opacity: 1;
+margin-left: 20px;
+
+}
+.horizont img{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+}
+.ochki{
+    width: 410.0000107594616px;
+height: 376.0000098672135px;
+opacity: 1;
+top: 2950px;
+left: 111px;
+border-radius: 20px;
+
+
+}
+
+.sled{
+    width: 270px;
+height: 330px;
+
+opacity: 1;
+top: 3000px;
+left: 400px;
+border-radius: 16px;
+
+}
+
+
+.label{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  
+}
+.ohh{
+      width: 350px;
+    height: 50px;
+    background-color: rgb(30, 30, 71);
+    color: grey;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    border: none;
+
+
+
+}
+
+.xol{
+    position: absolute;
+    margin-left: 225px;
+}
+.ohh::placeholder{
+    text-align: left;
+}
+
+.ohh:hover{
+       color: rgb(141, 122, 122);
+    
+}
+
+.footall{
+    color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fisttext{
+    color: rgb(206, 185, 185);
+    flex-direction: column;
+}
+
+.texts{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end ;
+    margin: 15px;
+    gap: 70px;
+    
+    
+}
+
+.firsttext h5{
+    color: white;
+    margin-bottom: 5px;
+}
+.firsttext p{
+    margin: 6px;
+    margin-bottom: 5px;
+}
+.firsttext3{
+     color: rgb(255, 255, 255);
+    flex-direction: column;
+
+}
+.firsttext3 p{
+    color: grey;
+    margin: 7px;
+    margin-bottom: 13px;
+}
+
+.firsttext p:hover{
+    color: white;
+    transform: translateY(2px);
+}
+.firsttext3 p:hover{
+    color: white;
+    transform: translateY(2px);
+}
+
+.uy{
+    width: 35px;
+    height: 32px;
+    border-radius: 5px;
+}
+.jopa{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
